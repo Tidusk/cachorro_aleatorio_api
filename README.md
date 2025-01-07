@@ -1,6 +1,6 @@
 # consumo_dio
 
-Consumindo API usando DIO
+Consumindo API para Fotos Aleatórias de Cachorros
 
 ## Getting Started
 
