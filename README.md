@@ -1,4 +1,4 @@
-# consumo_dio
+# consumo_dio_api_fotos_cachorros
 
 Consumindo API para Fotos Aleatórias de Cachorros
 
